@@ -1,0 +1,33 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background: #f2f2f2;
+}
+header.cabecera{
+	padding: 1em 1em;
+	color: #ff0000;
+	font-size: 15px;
+	background: #000;
+	width: 90%;
+	margin: 0 auto;
+}
+.cuerpo{
+	padding: 1em 1em;
+	width: 90%;
+	margin: 0 auto;
+}
+nav.menuprincipal{
+	padding: 1em 1em;
+	width: 90%;
+	margin: 0 auto;
+}
+section.s {
+	width: 90%;
+	margin: 0 auto;
+}
+footer{
+	width: 90%;
+	margin: 0 auto;
+}
